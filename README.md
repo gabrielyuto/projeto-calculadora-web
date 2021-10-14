@@ -10,7 +10,7 @@
 #
 
 <div align="center">
-    <img src="./img/black_calculator.png" width="300px" height="400"/> 
+    <img src="./img/black_calculator.PNG" width="300px" height="400"/> 
 </div>
 
 #
