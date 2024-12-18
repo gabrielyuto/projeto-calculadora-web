@@ -1,4 +1,4 @@
-# 🔢 Black Calculator Interface
+# 🔢 Dark Calculator Interface
 
 ## ✨ It's a simple calculator to practice HTML, CSS and JS. Have fun!!! 
 
